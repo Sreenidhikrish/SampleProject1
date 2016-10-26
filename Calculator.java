@@ -5,6 +5,7 @@ public class Calculator {
 
     SampleClass  o = new SampleClass();
 
+    //this is a sample comment
 
     public String fun(String p)
     {
